@@ -2,6 +2,7 @@ package medium
 
 class MinimumSizeSubarraySum_209 {
 
+    //滑动窗口
     fun minSubArrayLen(s: Int, nums: IntArray): Int {
         var low = 0
         var high = 0
