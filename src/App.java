@@ -1,14 +1,11 @@
-import easy.ConvertSortedArray2BinarySearchTree_108;
-import easy.PathSum_112;
-import easy.PlusOne_66;
-import easy.RemoveDuplicateNodeLCCI;
+import easy.*;
 import medium.KthSmallestElementInSortedMatrix_378;
 import medium.MinimumSizeSubarraySum_209;
 
 public class App {
 
     public static void main(String[] args) {
-        PathSum_112 pathSum_112 = new PathSum_112();
-        pathSum_112.exe();
+        SameTree_100 sameTree_100  = new SameTree_100();
+        sameTree_100.exe();
     }
 }
