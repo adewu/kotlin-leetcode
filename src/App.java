@@ -5,7 +5,7 @@ import medium.MinimumSizeSubarraySum_209;
 public class App {
 
     public static void main(String[] args) {
-        IntersectionOfTwoArrays_349 intersectionOfTwoArrays_349  = new IntersectionOfTwoArrays_349();
-        intersectionOfTwoArrays_349.exe();
+        MergeSortedArray_88 mergeSortedArray_88  = new MergeSortedArray_88();
+        mergeSortedArray_88.exe();
     }
 }
