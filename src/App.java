@@ -5,7 +5,7 @@ import medium.MinimumSizeSubarraySum_209;
 public class App {
 
     public static void main(String[] args) {
-        MergeSortedArray_88 mergeSortedArray_88  = new MergeSortedArray_88();
-        mergeSortedArray_88.exe();
+        IsSubSequence_392 isSubSequence392  = new IsSubSequence_392();
+        isSubSequence392.exe();
     }
 }
