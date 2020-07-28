@@ -5,7 +5,7 @@ import medium.MinimumSizeSubarraySum_209;
 public class App {
 
     public static void main(String[] args) {
-        IsSubSequence_392 isSubSequence392  = new IsSubSequence_392();
-        isSubSequence392.exe();
+        MaximumDepthOfBinaryTree_104 maximumDepthOfBinaryTree104  = new MaximumDepthOfBinaryTree_104();
+        maximumDepthOfBinaryTree104.exe();
     }
 }
