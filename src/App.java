@@ -5,7 +5,7 @@ import medium.MinimumSizeSubarraySum_209;
 public class App {
 
     public static void main(String[] args) {
-        ValidParentheses_20 validParentheses20  = new ValidParentheses_20();
-        validParentheses20.exe();
+        MinimumDepthOfBinaryTree_111 minimumDepthOfBinaryTree_111  = new MinimumDepthOfBinaryTree_111();
+        minimumDepthOfBinaryTree_111.exe();
     }
 }
