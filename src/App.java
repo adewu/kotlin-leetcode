@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        InvertBinaryTree_226 invertBinaryTree_226  = new InvertBinaryTree_226();
-        invertBinaryTree_226.exe();
+        FindModeInBinarySearchTree_501 findModeInBinarySearchTree_501  = new FindModeInBinarySearchTree_501();
+        findModeInBinarySearchTree_501.exe();
     }
 }
