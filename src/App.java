@@ -3,7 +3,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        BinaryTreePostorderTraversal_145 binaryTreePostorderTraversal_145  = new BinaryTreePostorderTraversal_145();
-        binaryTreePostorderTraversal_145.exe();
+        InsertintoABinarySearchTree_701 insertintoABinarySearchTree_701  = new InsertintoABinarySearchTree_701();
+        insertintoABinarySearchTree_701.exe();
     }
 }
