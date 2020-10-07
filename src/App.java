@@ -5,7 +5,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        TwoSum_1 twoSum_1  = new TwoSum_1();
-        twoSum_1.exe();
+        SortColors_75 sortColors_75  = new SortColors_75();
+        sortColors_75.exe();
     }
 }
