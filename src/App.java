@@ -1,11 +1,12 @@
 import easy.JewelsAndStones_771;
+import easy.ReverseString_344;
 import easy.TwoSum_1;
 import medium.*;
 
 public class App {
 
     public static void main(String[] args) {
-        SortColors_75 sortColors_75  = new SortColors_75();
-        sortColors_75.exe();
+        ReverseString_344 reverseString_344  = new ReverseString_344();
+        reverseString_344.exe();
     }
 }
