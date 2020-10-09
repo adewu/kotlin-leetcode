@@ -6,7 +6,6 @@ class LinkedListCycle_141 {
 
         var slow = head
         var fast = head
-
         while (fast != null){
             fast = fast.next
             if (fast != null){
