@@ -7,7 +7,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        LinkedListCycle_141 linkedListCycle_141  = new LinkedListCycle_141();
-        linkedListCycle_141.exe();
+        LinkedListCycle_142 linkedListCycle_142  = new LinkedListCycle_142();
+        linkedListCycle_142.exe();
     }
 }
