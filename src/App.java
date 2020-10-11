@@ -7,7 +7,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        LinkedListCycle_142 linkedListCycle_142  = new LinkedListCycle_142();
-        linkedListCycle_142.exe();
+        PartitionEqualSubsetSum_416 partitionEqualSubsetSum_416  = new PartitionEqualSubsetSum_416();
+        partitionEqualSubsetSum_416.exe();
     }
 }
