@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        SquaresOfASortedArray_977 squaresOfASortedArray_977  = new SquaresOfASortedArray_977();
-        squaresOfASortedArray_977.exe();
+        BackspaceStringCompare_844 backspaceStringCompare_844  = new BackspaceStringCompare_844();
+        backspaceStringCompare_844.exe();
     }
 }
