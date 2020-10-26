@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        ReorderList_143 backspaceStringCompare_844  = new ReorderList_143();
-        backspaceStringCompare_844.exe();
+        HowManyNumbersRSmaller_1365 howManyNumbersRSmaller_1365  = new HowManyNumbersRSmaller_1365();
+        howManyNumbersRSmaller_1365.exe();
     }
 }
