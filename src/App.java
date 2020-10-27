@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        HowManyNumbersRSmaller_1365 howManyNumbersRSmaller_1365  = new HowManyNumbersRSmaller_1365();
-        howManyNumbersRSmaller_1365.exe();
+        BinaryTreePreorderTraversal_144 binaryTreePreorderTraversal_144  = new BinaryTreePreorderTraversal_144();
+        binaryTreePreorderTraversal_144.exe();
     }
 }
