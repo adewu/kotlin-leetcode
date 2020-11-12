@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        KClosestPoints2Origin_973 kClosestPoints2Origin_973  = new KClosestPoints2Origin_973();
-        kClosestPoints2Origin_973.exe();
+        SortArrayByParity2_922 sortArrayByParity2_922  = new SortArrayByParity2_922();
+        sortArrayByParity2_922.exe();
     }
 }
