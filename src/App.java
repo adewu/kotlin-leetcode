@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        SortArrayByParity2_922 sortArrayByParity2_922  = new SortArrayByParity2_922();
-        sortArrayByParity2_922.exe();
+        OddEvenLinkedList_328 oddEvenLinkedList_328  = new OddEvenLinkedList_328();
+        oddEvenLinkedList_328.exe();
     }
 }
