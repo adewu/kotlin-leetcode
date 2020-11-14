@@ -4,7 +4,7 @@ import medium.*;
 public class App {
 
     public static void main(String[] args) {
-        OddEvenLinkedList_328 oddEvenLinkedList_328  = new OddEvenLinkedList_328();
-        oddEvenLinkedList_328.exe();
+        RelativeSortArray_1122 relativeSortArray_1122  = new RelativeSortArray_1122();
+        relativeSortArray_1122.exe();
     }
 }
