@@ -1,10 +1,9 @@
 import easy.*;
-import medium.*;
 
 public class App {
 
     public static void main(String[] args) {
-        RelativeSortArray_1122 relativeSortArray_1122  = new RelativeSortArray_1122();
-        relativeSortArray_1122.exe();
+        MatrixCellsInDistanceOrder_1030 matrixCellsInDistanceOrder_1030 = new MatrixCellsInDistanceOrder_1030();
+        matrixCellsInDistanceOrder_1030.exe();
     }
 }
