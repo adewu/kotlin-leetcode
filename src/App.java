@@ -10,7 +10,7 @@ import java.util.Arrays;
 public class App {
 
     public static void main(String[] args) {
-        FindFirstLastPositionElementSortedArray_34 o = new FindFirstLastPositionElementSortedArray_34();
+        CountPrimes_204 o = new CountPrimes_204();
         o.exe();
     }
 }
