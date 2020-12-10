@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class App {
 
     public static void main(String[] args) {
-        TaskScheduler_621 o = new TaskScheduler_621();
+        LemonadeChange_860 o = new LemonadeChange_860();
         o.exe();
     }
 }
