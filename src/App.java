@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        FindTheDifference_389 o = new FindTheDifference_389();
+        MinCostClimbingStairs_746 o = new MinCostClimbingStairs_746();
         o.exe();
     }
 
