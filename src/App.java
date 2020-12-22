@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        MinCostClimbingStairs_746 o = new MinCostClimbingStairs_746();
+        BTZigzagLevelOrderTraversal_103 o = new BTZigzagLevelOrderTraversal_103();
         o.exe();
     }
 
