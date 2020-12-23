@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        BTZigzagLevelOrderTraversal_103 o = new BTZigzagLevelOrderTraversal_103();
+        FirstUniqueCharacterInString_387 o = new FirstUniqueCharacterInString_387();
         o.exe();
     }
 
