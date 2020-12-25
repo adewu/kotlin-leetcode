@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        FirstUniqueCharacterInString_387 o = new FirstUniqueCharacterInString_387();
+        AssignCookies_455 o = new AssignCookies_455();
         o.exe();
     }
 
