@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        AssignCookies_455 o = new AssignCookies_455();
+        LastStoneWeight_1046 o = new LastStoneWeight_1046();
         o.exe();
     }
 
