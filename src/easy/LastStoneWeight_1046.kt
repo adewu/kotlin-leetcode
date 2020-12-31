@@ -30,6 +30,7 @@ class LastStoneWeight_1046 {
             if (it > 0){
                 count ++
             }
+
         }
         return count > 1
     }

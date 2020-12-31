@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        LastStoneWeight_1046 o = new LastStoneWeight_1046();
+        NonOverlappingIntervals_435 o = new NonOverlappingIntervals_435();
         o.exe();
     }
 
