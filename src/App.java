@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        FibonacciNumber_509 o = new FibonacciNumber_509();
+        PositionsOfLargeGroups_830 o = new PositionsOfLargeGroups_830();
         o.exe();
     }
 
