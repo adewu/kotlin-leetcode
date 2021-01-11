@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        PositionsOfLargeGroups_830 o = new PositionsOfLargeGroups_830();
+        SmallestStringWithSwaps_1202 o = new SmallestStringWithSwaps_1202();
         o.exe();
     }
 
