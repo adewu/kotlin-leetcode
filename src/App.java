@@ -8,7 +8,7 @@ import java.util.*;
 public class App {
 
     public static void main(String[] args) {
-        SmallestStringWithSwaps_1202 o = new SmallestStringWithSwaps_1202();
+        RedundantConnection_684 o = new RedundantConnection_684();
         o.exe();
     }
 
