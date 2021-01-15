@@ -1,9 +1,10 @@
 import easy.*;
+import medium.MostStonesRemovedSameRowColumn_947;
 
 public class App {
 
     public static void main(String[] args) {
-        BinaryPrefixDivisibleBy5_1018 o = new BinaryPrefixDivisibleBy5_1018();
+        MostStonesRemovedSameRowColumn_947 o = new MostStonesRemovedSameRowColumn_947();
         o.exe();
     }
 
