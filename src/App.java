@@ -1,12 +1,14 @@
 import easy.*;
+import medium.AccountsMerge_721;
 import medium.MostStonesRemovedSameRowColumn_947;
 
 public class App {
 
     public static void main(String[] args) {
-        MostStonesRemovedSameRowColumn_947 o = new MostStonesRemovedSameRowColumn_947();
+        AccountsMerge_721 o = new AccountsMerge_721();
         o.exe();
     }
+
 
 
 }
