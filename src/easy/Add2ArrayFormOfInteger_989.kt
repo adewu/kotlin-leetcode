@@ -2,6 +2,7 @@ package easy
 
 import java.math.BigDecimal
 import java.util.*
+import kotlin.collections.ArrayList
 
 class Add2ArrayFormOfInteger_989 {
 
@@ -22,6 +23,6 @@ class Add2ArrayFormOfInteger_989 {
     }
 
     fun exe(){
-        addToArrayForm(intArrayOf(1,2,6,3,0,7,1,7,1,9,7,5,6,6,4,4,0,0,6,3),1)
+        addToArrayForm(intArrayOf(1,2,6,3,0,7,1,7,1,9,7,5,6,6,4,4,0,0,6,3),516)
     }
 }
