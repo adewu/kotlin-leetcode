@@ -1,9 +1,9 @@
-import easy.*;
+import easy.FindPivotIndex_724;
 
 public class App {
 
     public static void main(String[] args) {
-        NumberEquivalentDominoPairs_1128 o = new NumberEquivalentDominoPairs_1128();
+        FindPivotIndex_724 o = new FindPivotIndex_724();
         o.exe();
     }
 
