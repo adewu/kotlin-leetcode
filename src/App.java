@@ -1,11 +1,11 @@
 import easy.*;
-import medium.MaxConsecutiveOnesIII_1004;
 
 public class App {
 
     public static void main(String[] args) {
-        TransposeMatrix_867 o = new TransposeMatrix_867();
-        o.exe();
+        int[] a = {-2, 0, 3, -5, 2, -1};
+        NumArray_303 o = new NumArray_303(a);
+        o.sumRange(0,2);
     }
 
 
