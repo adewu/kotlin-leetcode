@@ -1,13 +1,13 @@
 import easy.*;
-import medium.CountingBits_338;
 
 public class App {
 
     public static void main(String[] args) {
 
-        RemoveAllAdjacentDuplicates_1047 myQueue = new RemoveAllAdjacentDuplicates_1047();
-        myQueue.exe();
+        MyHashMap_706 a = new MyHashMap_706();
 
+        a.get(1);
+        a.put(10,1);
     }
 
 
