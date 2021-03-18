@@ -24,8 +24,8 @@ class SpiralMatrix_54 {
         for (i in 0 until total){
             res.add(matrix[row][column])
             visited[row][column] = true
-            var nextRow = row + directions[dircetionIndex][0]
-            var nextColumn = column + directions[dircetionIndex][1]
+            val nextRow = row + directions[dircetionIndex][0]
+            val nextColumn = column + directions[dircetionIndex][1]
             if (nextRow < 0 || nextRow >= rows || nextColumn < 0 || nextColumn >= columns || visited[nextRow][nextColumn]){
                 dircetionIndex = (dircetionIndex + 1) % 4
             }
