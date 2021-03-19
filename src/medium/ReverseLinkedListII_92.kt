@@ -14,7 +14,7 @@ class ReverseLinkedListII_92 {
         var cur = pre.next
         var next : ListNode ?= null
         for (i in 0 until right - left){
-            next = cur?.next
+            next = cur?.next 
             cur?.next = next?.next
             next?.next = pre?.next
             pre.next = next

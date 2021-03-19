@@ -9,8 +9,11 @@ public class App {
 
     public static void main(String[] args) {
 
-        ReverseLinkedListII_92 myQueue = new ReverseLinkedListII_92();
-        myQueue.exe();
+        DesignParkingSystem_1603 myQueue = new DesignParkingSystem_1603(1,1,0);
+        System.out.println(myQueue.addCar(1));
+        System.out.println(myQueue.addCar(2));
+        System.out.println(myQueue.addCar(3));
+        System.out.println(myQueue.addCar(1));
 
     }
 }
