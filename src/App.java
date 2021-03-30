@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        RemoveDuplicatesSortedList_83 myQueue = new RemoveDuplicatesSortedList_83();
+        SearchA2DMatrix_74 myQueue = new SearchA2DMatrix_74();
         myQueue.exe();
     }
 }
