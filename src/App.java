@@ -7,7 +7,8 @@ public class App {
 
     public static void main(String[] args) {
 
-        SearchA2DMatrix_74 myQueue = new SearchA2DMatrix_74();
+        ClumsyFactorial_1006 myQueue = new ClumsyFactorial_1006();
         myQueue.exe();
+
     }
 }
