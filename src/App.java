@@ -1,15 +1,14 @@
 import easy.*;
+import medium.*;
+
+import java.util.ArrayList;
 
 public class App {
 
     public static void main(String[] args) {
 
-        MyHashMap_706 a = new MyHashMap_706();
+        ClumsyFactorial_1006 myQueue = new ClumsyFactorial_1006();
+        myQueue.exe();
 
-        a.get(1);
-        a.put(10,1);
     }
-
-
-
 }
