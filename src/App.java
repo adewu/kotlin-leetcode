@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        ClumsyFactorial_1006 myQueue = new ClumsyFactorial_1006();
+        MergeSortedArray_88 myQueue = new MergeSortedArray_88();
         myQueue.exe();
 
     }

@@ -5,12 +5,9 @@ import java.util.*
 class MergeSortedArray_88 {
 
     fun merge(nums1: IntArray, m: Int, nums2: IntArray, n: Int): Unit {
-        var index = 0
-        for (i in m until nums1.size){
-            nums1[m] = nums2[index]
-            index ++
+        for (i in 0 until n) {
+            nums1[m + i] = nums2[i]
         }
-
         Arrays.sort(nums1)
     }
 
