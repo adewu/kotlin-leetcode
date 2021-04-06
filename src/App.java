@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        MergeSortedArray_88 myQueue = new MergeSortedArray_88();
+        RemoveDuplicatesSortedArrayII_80 myQueue = new RemoveDuplicatesSortedArrayII_80();
         myQueue.exe();
 
     }
