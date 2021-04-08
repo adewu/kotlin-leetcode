@@ -7,7 +7,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        RemoveDuplicatesSortedArrayII_80 myQueue = new RemoveDuplicatesSortedArrayII_80();
+        FindMinimumRotatedSortedArray_153 myQueue = new FindMinimumRotatedSortedArray_153();
         myQueue.exe();
 
     }
