@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        FindMinimumRotatedSortedArrayII_154 myQueue = new FindMinimumRotatedSortedArrayII_154();
+        MinimumDistanceBetweenBSTNodes_783 myQueue = new MinimumDistanceBetweenBSTNodes_783();
         myQueue.exe();
 
     }
