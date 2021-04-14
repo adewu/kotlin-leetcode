@@ -8,8 +8,8 @@ public class App {
 
     public static void main(String[] args) {
 
-        MinimumDistanceBetweenBSTNodes_783 myQueue = new MinimumDistanceBetweenBSTNodes_783();
-        myQueue.exe();
-
+        Trie_208 myQueue = new Trie_208();
+        myQueue.insert("apple");
+        myQueue.insert("bee");
     }
 }
