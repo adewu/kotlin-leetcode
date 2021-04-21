@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        HouseRobber_198 myQueue = new HouseRobber_198();
+        DecodeWays_91 myQueue = new DecodeWays_91();
         myQueue.exe();
     }
 }
