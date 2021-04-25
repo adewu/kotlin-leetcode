@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        DecodeWays_91 myQueue = new DecodeWays_91();
+        IncreasingOrderSearchTree_897 myQueue = new IncreasingOrderSearchTree_897();
         myQueue.exe();
     }
 }
