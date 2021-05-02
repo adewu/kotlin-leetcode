@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        SingleNumberII_137 myQueue = new SingleNumberII_137();
+        EmployeeImportance_690 myQueue = new EmployeeImportance_690();
         myQueue.exe();
     }
 }
