@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        EmployeeImportance_690 myQueue = new EmployeeImportance_690();
+        DeleteAndEarn_740 myQueue = new DeleteAndEarn_740();
         myQueue.exe();
     }
 }
