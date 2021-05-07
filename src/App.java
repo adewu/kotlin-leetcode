@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        DeleteAndEarn_740 myQueue = new DeleteAndEarn_740();
+        XOROperationInAnArray_1486 myQueue = new XOROperationInAnArray_1486();
         myQueue.exe();
     }
 }
