@@ -8,7 +8,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        XOROperationInAnArray_1486 myQueue = new XOROperationInAnArray_1486();
+        XORQueriesOfASubarray_1310 myQueue = new XORQueriesOfASubarray_1310();
         myQueue.exe();
     }
 }
