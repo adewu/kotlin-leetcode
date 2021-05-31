@@ -1,10 +1,13 @@
+import a.LargeCoffee;
+import a.Milk;
+import a.RefinedCoffee;
 import easy.*;
 
 public class App {
 
     public static void main(String[] args) {
-
-        CousinsInBinaryTree_993 myQueue = new CousinsInBinaryTree_993();
-        myQueue.exe();
+        RefinedCoffee largeWithMilk = new LargeCoffee(new Milk());
+        largeWithMilk.orderCoffee(2);
+        largeWithMilk.checkQuality();
     }
 }
